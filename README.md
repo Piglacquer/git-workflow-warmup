@@ -2,7 +2,7 @@
 
 The point of this exercise is to "git" accustomed to a feature-branching workflow in git. 
 
-- Get into a team of 4-5 (we'll give you numbers, like yesterday)
+- Get into a team of 4-5
 - Create your own git repository on github
 - One person needs to clone down that repository and create three files: index.html, styles.css, and app.js
 - Add/commit/push to master.
