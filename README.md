@@ -6,7 +6,7 @@ Use VS code and the terminal inside of it to deal with merge conflicts in not-vi
 
 If you have questions about how that works check out the [vs code docs](https://code.visualstudio.com/docs/editor/versioncontrol) 
 
-- Get into a team of 4-5
+- Get into a team of 3-4
 - Person #1 will create a new repository AND ADD THE OTHER PEOPLE IN THEIR GROUP AS COLLABORATORS
 - While person #1 is adding collaborators, person #2 will create folder and ```git init``` inside of it.
 - Person #2 will ```git remote add origin URL```
