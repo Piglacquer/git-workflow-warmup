@@ -15,7 +15,7 @@ If you have questions about how that works check out the [vs code docs](https://
 - Persons #1,3, and 4 will clone the repo to their computers
 - Each person needs to create a feature branch
     - `git checkout -b branchName`
-    - GIVE YOUR BRANCHES GOOD NAMES
+    - Give your branches names based on the feature you're working on
     - Depending on the size of your group, 1 - 2 people should be working on a single file in their respective branches
 - The index.html file should have: a header, an image, an unordered list with 5 items, and three empty divs
 - The javascript file should target the empty divs, and add whatever you want via the DOM
